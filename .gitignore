@@ -1,0 +1,13 @@
+# Rust
+target/
+Cargo.lock
+
+# Generated files
+*.rs.bk
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+*.exe
+*.pdb
